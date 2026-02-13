@@ -22,7 +22,9 @@ joining on such attributes may produce spurious tuples.
 ---
 # Types of Normalization in SQL
 ---
-![[Pasted image 20260209180821.png]]
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3c71d328-0de2-44f6-bb6c-aff9395cb75a" />
+
 
 ## First Normal Form (1NF)
 
